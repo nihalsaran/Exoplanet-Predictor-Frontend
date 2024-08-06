@@ -127,7 +127,7 @@ export default function PredictionResults() {
         <ResultCard>
           <ExoplanetImage>
             <Image
-              src="/exoplanet-image.jpg"
+              src="/planets.png"
               alt="Exoplanet visualization"
               width={300}
               height={300}
